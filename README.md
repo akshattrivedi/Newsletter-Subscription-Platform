@@ -1,6 +1,6 @@
 # Newsletter-Subscription-Platform
 
-#### Run the code
+#### Run the code using Linux Terminal
 ```
 $ python3 main.py
 ```
